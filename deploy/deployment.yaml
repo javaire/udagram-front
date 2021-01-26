@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: udagram-frontend
-        image: javaire/udagram-front
+        image: javaire/udagram-frontend
         ports:
         - containerPort: 80
